@@ -76,7 +76,6 @@ Core objective:
 - Positions panel (paper/live)
 - Execution logs
 - Telemetry (latency, equity, status)
-- Optional Liquid Glass visual theme
 
 ## Tech Stack
 
