@@ -1,10 +1,5 @@
 # polymarket-bot-5min-UI
 
-diff --git a/f:\Bot\pm-bot\README.md b/f:\Bot\pm-bot\README.md
-new file mode 100644
---- /dev/null
-+++ b/f:\Bot\pm-bot\README.md
-@@ -0,0 +1,121 @@
 +# PolyMarket Bot Wizard
 +
 +An Electron + React desktop app for trading **5-minute Up/Down markets** with configurable strategy logic, risk controls, and real-time execution telemetry.
